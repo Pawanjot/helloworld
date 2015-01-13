@@ -3,7 +3,7 @@ Just Another Repository
 
 
 
-Hello people
+Hello peoples
 
 
 
